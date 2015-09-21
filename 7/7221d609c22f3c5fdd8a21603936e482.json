@@ -1,21 +1,22 @@
 {
   "Country": "TH",
-  "Rating": 0,
+  "Rating": 3,
   "Type": "X",
   "Code": "",
   "Title": "ฝรั่งเอากันในห้องลองเสื้อ",
   "Actress": [],
   "Tag": [
-    "clip"
+    "clip",
+    "outdoor"
   ],
   "Hash": "7221d609c22f3c5fdd8a21603936e482",
   "CreatedTime": "2015-08-07 23:51:01",
-  "ModifiedTime": "2015-08-07 23:52:02",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2015-08-26 23:53:18",
+  "ViewTime": "2015-08-26 23:52:50",
   "FilePath": [
-    "G:\\G5\\TH+0!X()$ฝรั่งเอากันในห้องลองเสื้อ${}[clip]=7221d609c22f3c5fdd8a21603936e482.mp4"
+    "G:\\G5\\TH+3!X()$ฝรั่งเอากันในห้องลองเสื้อ${}[clip,outdoor]=7221d609c22f3c5fdd8a21603936e482.mp4"
   ],
   "FileSize": 2201173,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
