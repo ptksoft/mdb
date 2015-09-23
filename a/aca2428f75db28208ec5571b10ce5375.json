@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 2,
+  "Type": "C",
   "Code": "",
   "Title": "สงกรานต์ที่เป็นข่าวดัง",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "aca2428f75db28208ec5571b10ce5375",
   "CreatedTime": "2015-04-29 20:54:58",
-  "ModifiedTime": "2015-04-29 20:55:02",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2015-09-23 23:17:28",
+  "ViewTime": "2015-09-23 23:16:55",
   "FilePath": [
-    "G:\\G2\\__+0!U()$สงกรานต์ที่เป็นข่าวดัง${}[]=aca2428f75db28208ec5571b10ce5375.mp4"
+    "G:\\G2\\TH+2!C()$สงกรานต์ที่เป็นข่าวดัง${}[clip]=aca2428f75db28208ec5571b10ce5375.mp4"
   ],
   "FileSize": 5387356,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
