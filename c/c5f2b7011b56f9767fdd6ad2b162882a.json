@@ -1,20 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "ครูสาวเคลมนักเรียน",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "student",
+    "teacher"
+  ],
   "Hash": "c5f2b7011b56f9767fdd6ad2b162882a",
   "CreatedTime": "2015-02-18 22:40:25",
-  "ModifiedTime": "2015-03-21 22:12:54",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-01-10 20:52:30",
+  "ViewTime": "2016-01-10 20:51:57",
   "FilePath": [
-    "Q:\\QG\\__+0!U()$ครูสาวเคลมนักเรียน${}[]=c5f2b7011b56f9767fdd6ad2b162882a.flv",
+    "Q:\\QG\\US+3!X()$ครูสาวเคลมนักเรียน${}[student,teacher]=c5f2b7011b56f9767fdd6ad2b162882a.flv",
     "G:\\GXXX\\__+0!U()$ครูสาวเคลมนักเรียน${}[]=c5f2b7011b56f9767fdd6ad2b162882a.flv"
   ],
   "FileSize": 7278481,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
