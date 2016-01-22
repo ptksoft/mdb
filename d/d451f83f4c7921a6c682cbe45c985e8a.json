@@ -1,20 +1,23 @@
 {
   "Country": "TH",
-  "Rating": 0,
+  "Rating": 2,
   "Type": "X",
   "Code": "",
   "Title": "ลักหลับเมียเพื่อน ตอนเพื่อนไปทำงาน",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip",
+    "mature"
+  ],
   "Hash": "d451f83f4c7921a6c682cbe45c985e8a",
   "CreatedTime": "2015-02-20 22:08:13",
-  "ModifiedTime": "2015-03-21 22:13:17",
-  "ViewTime": "2015-02-20 23:00:13",
+  "ModifiedTime": "2016-01-22 22:51:40",
+  "ViewTime": "2016-01-22 22:50:56",
   "FilePath": [
-    "Q:\\QH\\TH+0!X()$ลักหลับเมียเพื่อน ตอนเพื่อนไปทำงาน${}[]=d451f83f4c7921a6c682cbe45c985e8a.flv",
+    "Q:\\QH\\TH+2!X()$ลักหลับเมียเพื่อน ตอนเพื่อนไปทำงาน${}[clip,mature]=d451f83f4c7921a6c682cbe45c985e8a.flv",
     "G:\\GXXX\\TH+0!X()$ลักหลับเมียเพื่อน ตอนเพื่อนไปทำงาน${}[]=d451f83f4c7921a6c682cbe45c985e8a.flv"
   ],
   "FileSize": 19492444,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

@@ -1,6 +1,6 @@
 {
   "Country": "TH",
-  "Rating": 0,
+  "Rating": 3,
   "Type": "X",
   "Code": "",
   "Title": "พานักศึกษามาเอาในห้อง",
@@ -10,12 +10,12 @@
   ],
   "Hash": "dc673a9e4e34fb0363077c7b6b79775d",
   "CreatedTime": "2015-03-31 00:17:57",
-  "ModifiedTime": "2015-03-31 00:18:54",
-  "ViewTime": "2015-03-31 00:17:58",
+  "ModifiedTime": "2016-01-22 22:40:51",
+  "ViewTime": "2016-01-22 22:40:15",
   "FilePath": [
-    "Q:\\QA\\TH+0!X()$พานักศึกษามาเอาในห้อง${}[clip]=dc673a9e4e34fb0363077c7b6b79775d.3gp"
+    "Q:\\QA\\TH+3!X()$พานักศึกษามาเอาในห้อง${}[clip]=dc673a9e4e34fb0363077c7b6b79775d.3gp"
   ],
   "FileSize": 65542031,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }
