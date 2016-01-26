@@ -1,20 +1,25 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 4,
+  "Type": "X",
   "Code": "XART-140725",
   "Title": "Highrise rendezvous",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "1080p",
+    "cute",
+    "glass",
+    "teen"
+  ],
   "Hash": "5c70efaaea002656402057ec84ec9bce",
   "CreatedTime": "2014-08-05 07:36:49",
-  "ModifiedTime": "2015-03-28 02:13:50",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-01-26 23:05:34",
+  "ViewTime": "2016-01-26 23:03:32",
   "FilePath": [
-    "Q:\\QA\\__+0!U(XART-140725)$Highrise rendezvous${}[]=5c70efaaea002656402057ec84ec9bce.mp4",
+    "Q:\\QA\\US+4!X(XART-140725)$Highrise rendezvous${}[1080p,cute,glass,teen]=5c70efaaea002656402057ec84ec9bce.mp4",
     "E:\\E1\\__+0!U(XART-140725)$Highrise rendezvous${}[]=5c70efaaea002656402057ec84ec9bce.mp4"
   ],
   "FileSize": 616689165,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
