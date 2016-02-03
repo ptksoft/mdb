@@ -1,20 +1,25 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
-  "Code": "",
-  "Title": "002_3xplanet_10musume 092714_01",
-  "Actress": [],
-  "Tag": [],
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
+  "Code": "10MUSUME 092714_01",
+  "Title": "",
+  "Actress": [
+    "NAKAHARA SHIORI"
+  ],
+  "Tag": [
+    "720p",
+    "cosplay"
+  ],
   "Hash": "6ec249d0db35f57cbde7072d078e9770",
   "CreatedTime": "2015-02-18 22:25:23",
-  "ModifiedTime": "2015-03-21 22:12:54",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-03 23:01:47",
+  "ViewTime": "2016-02-03 23:01:29",
   "FilePath": [
-    "Q:\\QG\\__+0!U()$002_3xplanet_10musume 092714_01${}[]=6ec249d0db35f57cbde7072d078e9770.wmv",
+    "Q:\\QG\\JP+3!X(10MUSUME 092714_01)$${NAKAHARA SHIORI}[720p,cosplay]=6ec249d0db35f57cbde7072d078e9770.wmv",
     "G:\\GXXX\\__+0!U()$002_3xplanet_10musume 092714_01${}[]=6ec249d0db35f57cbde7072d078e9770.wmv"
   ],
   "FileSize": 1528671159,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "2"
 }

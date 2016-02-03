@@ -1,20 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
-  "Title": "angel_full",
+  "Title": "TrikePatrol - Angel",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "mature",
+    "hotel"
+  ],
   "Hash": "ce2d65ff876ff91e9e582e08e97eb6bd",
   "CreatedTime": "2015-02-18 22:27:19",
-  "ModifiedTime": "2015-03-21 22:12:54",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-03 23:10:13",
+  "ViewTime": "2016-02-03 23:07:42",
   "FilePath": [
-    "Q:\\QG\\__+0!U()$angel_full${}[]=ce2d65ff876ff91e9e582e08e97eb6bd.wmv",
+    "Q:\\QG\\TH+3!X()$TrikePatrol - Angel${}[mature,hotel]=ce2d65ff876ff91e9e582e08e97eb6bd.wmv",
     "G:\\GXXX\\__+0!U()$angel_full${}[]=ce2d65ff876ff91e9e582e08e97eb6bd.wmv"
   ],
   "FileSize": 337768600,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

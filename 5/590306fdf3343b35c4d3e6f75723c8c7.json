@@ -1,22 +1,24 @@
 {
   "Country": "TH",
-  "Rating": 0,
+  "Rating": 4,
   "Type": "X",
   "Code": "",
   "Title": "ลากสก๊อยแว่น มาเย็ดข้างป่า บนรถมอไซต์",
   "Actress": [],
   "Tag": [
     "bike",
-    "clip"
+    "clip",
+    "glass",
+    "outdoor"
   ],
   "Hash": "590306fdf3343b35c4d3e6f75723c8c7",
   "CreatedTime": "2015-03-31 00:08:00",
-  "ModifiedTime": "2015-03-31 00:09:54",
-  "ViewTime": "2015-03-31 00:08:02",
+  "ModifiedTime": "2016-02-02 22:25:00",
+  "ViewTime": "2016-02-02 22:24:13",
   "FilePath": [
-    "Q:\\QA\\TH+0!X()$ลากสก๊อยแว่น มาเย็ดข้างป่า บนรถมอไซต์${}[bike,clip]=590306fdf3343b35c4d3e6f75723c8c7.mp4"
+    "Q:\\QA\\TH+4!X()$ลากสก๊อยแว่น มาเย็ดข้างป่า บนรถมอไซต์${}[bike,clip,glass,outdoor]=590306fdf3343b35c4d3e6f75723c8c7.mp4"
   ],
   "FileSize": 97859266,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "3"
 }
