@@ -1,20 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "IN",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "หลุดมาใหม่สวิงกิ้ง",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip",
+    "swing"
+  ],
   "Hash": "82328c0e2b21bc7c05fde91e77dad278",
   "CreatedTime": "2015-02-20 22:07:58",
-  "ModifiedTime": "2015-03-21 22:13:17",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-21 01:31:22",
+  "ViewTime": "2016-02-21 01:30:01",
   "FilePath": [
-    "Q:\\QH\\__+0!U()$หลุดมาใหม่สวิงกิ้ง${}[]=82328c0e2b21bc7c05fde91e77dad278.mp4",
+    "Q:\\QH\\IN+3!X()$หลุดมาใหม่สวิงกิ้ง${}[clip,swing]=82328c0e2b21bc7c05fde91e77dad278.mp4",
     "G:\\GXXX\\__+0!U()$หลุดมาใหม่สวิงกิ้ง${}[]=82328c0e2b21bc7c05fde91e77dad278.mp4"
   ],
   "FileSize": 6096102,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

@@ -1,6 +1,6 @@
 {
   "Country": "TH",
-  "Rating": 0,
+  "Rating": 1,
   "Type": "X",
   "Code": "",
   "Title": "แอบเย็ดกันในห้องน้ำคนพิการของโรงพยาบาล",
@@ -11,12 +11,10 @@
   ],
   "Hash": "60f854b931d5c13b9ec9b3b29d6a69d7",
   "CreatedTime": "2015-03-31 00:01:22",
-  "ModifiedTime": "2015-03-31 00:02:12",
-  "ViewTime": "2015-03-31 00:01:25",
-  "FilePath": [
-    "Q:\\QA\\TH+0!X()$แอบเย็ดกันในห้องน้ำคนพิการของโรงพยาบาล${}[bathroom,clip]=60f854b931d5c13b9ec9b3b29d6a69d7.flv"
-  ],
+  "ModifiedTime": "2016-02-21 01:43:11",
+  "ViewTime": "2016-02-21 01:41:39",
+  "FilePath": [],
   "FileSize": 26484335,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }
