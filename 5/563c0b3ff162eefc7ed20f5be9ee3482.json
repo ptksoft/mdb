@@ -1,20 +1,22 @@
 {
   "Country": "TH",
-  "Rating": 0,
+  "Rating": 2,
   "Type": "X",
   "Code": "",
   "Title": "Secretary and Boss",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "563c0b3ff162eefc7ed20f5be9ee3482",
   "CreatedTime": "2015-02-20 22:09:25",
-  "ModifiedTime": "2015-03-21 22:13:17",
-  "ViewTime": "2015-02-20 22:53:35",
+  "ModifiedTime": "2016-02-22 21:27:47",
+  "ViewTime": "2016-02-22 21:27:11",
   "FilePath": [
-    "Q:\\QH\\TH+0!X()$Secretary and Boss${}[]=563c0b3ff162eefc7ed20f5be9ee3482.flv",
+    "Q:\\QH\\TH+2!X()$Secretary and Boss${}[clip]=563c0b3ff162eefc7ed20f5be9ee3482.flv",
     "G:\\GXXX\\TH+0!X()$Secretary and Boss${}[]=563c0b3ff162eefc7ed20f5be9ee3482.flv"
   ],
   "FileSize": 99379436,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

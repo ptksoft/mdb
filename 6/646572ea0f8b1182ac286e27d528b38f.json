@@ -1,22 +1,25 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 2,
+  "Type": "X",
   "Code": "",
   "Title": "Employee - Jane darling",
   "Actress": [
     "JANE DARLING"
   ],
-  "Tag": [],
+  "Tag": [
+    "milf",
+    "mature"
+  ],
   "Hash": "646572ea0f8b1182ac286e27d528b38f",
   "CreatedTime": "2014-08-05 07:32:19",
-  "ModifiedTime": "2015-03-28 02:13:50",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-22 20:46:59",
+  "ViewTime": "2016-02-22 20:46:04",
   "FilePath": [
-    "Q:\\QA\\__+0!U()$Employee - Jane darling${JANE DARLING}[]=646572ea0f8b1182ac286e27d528b38f.avi",
+    "Q:\\QA\\US+2!X()$Employee - Jane darling${JANE DARLING}[milf,mature]=646572ea0f8b1182ac286e27d528b38f.avi",
     "E:\\E1\\__+0!U()$Employee - Jane darling${JANE DARLING}[]=646572ea0f8b1182ac286e27d528b38f.avi"
   ],
   "FileSize": 409008128,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

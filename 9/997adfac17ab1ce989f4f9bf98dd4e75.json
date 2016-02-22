@@ -1,6 +1,6 @@
 {
   "Country": "TH",
-  "Rating": 0,
+  "Rating": 1,
   "Type": "X",
   "Code": "",
   "Title": "รุ่นใหญ่เอากัน ชโลมน้ำมัน",
@@ -11,12 +11,10 @@
   ],
   "Hash": "997adfac17ab1ce989f4f9bf98dd4e75",
   "CreatedTime": "2015-03-31 00:05:30",
-  "ModifiedTime": "2015-03-31 00:06:51",
-  "ViewTime": "2015-03-31 00:05:32",
-  "FilePath": [
-    "Q:\\QA\\TH+0!X()$รุ่นใหญ่เอากัน ชโลมน้ำมัน${}[clip,mature]=997adfac17ab1ce989f4f9bf98dd4e75.mpg"
-  ],
+  "ModifiedTime": "2016-02-21 02:21:37",
+  "ViewTime": "2016-02-21 02:21:02",
+  "FilePath": [],
   "FileSize": 15955043,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

@@ -1,7 +1,7 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 4,
+  "Type": "X",
   "Code": "",
   "Title": "เงี่ยนป่าว รักบอลป่าว",
   "Actress": [],
@@ -10,13 +10,13 @@
   ],
   "Hash": "76b18e1cbd6552e6ee88a4dfb528adb1",
   "CreatedTime": "2015-01-22 00:34:29",
-  "ModifiedTime": "2015-03-21 22:12:54",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-22 22:17:04",
+  "ViewTime": "2016-02-22 22:16:12",
   "FilePath": [
-    "Q:\\QG\\__+0!U()$เงี่ยนป่าว รักบอลป่าว${}[clip]=76b18e1cbd6552e6ee88a4dfb528adb1.mp4",
+    "Q:\\QG\\TH+4!X()$เงี่ยนป่าว รักบอลป่าว${}[clip]=76b18e1cbd6552e6ee88a4dfb528adb1.mp4",
     "G:\\GXXX\\__+0!U()$เงี่ยนป่าว รักบอลป่าว${}[clip]=76b18e1cbd6552e6ee88a4dfb528adb1.mp4"
   ],
   "FileSize": 7525937,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

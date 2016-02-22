@@ -1,20 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "RHJ-351",
-  "Title": "RHJ-351",
-  "Actress": [],
-  "Tag": [],
+  "Title": "Red Hot Jam Vol 351",
+  "Actress": [
+    "AIMI TOKITA"
+  ],
+  "Tag": [
+    "glass"
+  ],
   "Hash": "677ba4570d0e39ba7043523e4e1dff28",
   "CreatedTime": "2015-02-18 23:08:49",
-  "ModifiedTime": "2015-03-21 22:13:17",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-22 21:41:08",
+  "ViewTime": "2016-02-22 21:38:49",
   "FilePath": [
-    "Q:\\QH\\__+0!U(RHJ-351)$RHJ-351${}[]=677ba4570d0e39ba7043523e4e1dff28.avi",
+    "Q:\\QH\\JP+3!X(RHJ-351)$Red Hot Jam Vol 351${AIMI TOKITA}[glass]=677ba4570d0e39ba7043523e4e1dff28.avi",
     "G:\\GXXX\\__+0!U(RHJ-351)$RHJ-351${}[]=677ba4570d0e39ba7043523e4e1dff28.avi"
   ],
   "FileSize": 1081123572,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

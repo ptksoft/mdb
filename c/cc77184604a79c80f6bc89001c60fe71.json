@@ -1,20 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "SCOP-250",
-  "Title": "SCOP-250",
+  "Title": "is real to a certain prefecture certain city",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "mature",
+    "cosplay",
+    "nurse"
+  ],
   "Hash": "cc77184604a79c80f6bc89001c60fe71",
   "CreatedTime": "2015-02-18 20:25:33",
-  "ModifiedTime": "2015-03-21 22:12:54",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-22 21:48:04",
+  "ViewTime": "2016-02-22 21:45:38",
   "FilePath": [
-    "Q:\\QG\\__+0!U(SCOP-250)$SCOP-250${}[]=cc77184604a79c80f6bc89001c60fe71.avi",
+    "Q:\\QG\\JP+3!C(SCOP-250)$is real to a certain prefecture certain city${}[mature,cosplay,nurse]=cc77184604a79c80f6bc89001c60fe71.avi",
     "G:\\GXXX\\__+0!U(SCOP-250)$SCOP-250${}[]=cc77184604a79c80f6bc89001c60fe71.avi"
   ],
   "FileSize": 2406258617,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

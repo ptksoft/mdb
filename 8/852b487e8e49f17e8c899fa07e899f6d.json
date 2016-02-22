@@ -1,20 +1,21 @@
 {
   "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Rating": 2,
+  "Type": "X",
   "Code": "",
   "Title": "94648",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "teen"
+  ],
   "Hash": "852b487e8e49f17e8c899fa07e899f6d",
   "CreatedTime": "2015-02-20 22:05:47",
-  "ModifiedTime": "2015-03-21 22:12:54",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-22 22:00:16",
+  "ViewTime": "2016-02-22 21:59:36",
   "FilePath": [
-    "Q:\\QG\\__+0!U()$94648${}[]=852b487e8e49f17e8c899fa07e899f6d.mp4",
     "G:\\GXXX\\__+0!U()$94648${}[]=852b487e8e49f17e8c899fa07e899f6d.mp4"
   ],
   "FileSize": 27949632,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
