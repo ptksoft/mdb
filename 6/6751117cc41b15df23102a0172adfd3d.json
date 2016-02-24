@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 2,
+  "Type": "X",
   "Code": "",
   "Title": "คลิปหลุดไทย ชวนแฟนมาห้องละเยสสะ",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "6751117cc41b15df23102a0172adfd3d",
   "CreatedTime": "2015-03-21 22:31:10",
-  "ModifiedTime": "2015-03-21 22:31:30",
-  "ViewTime": "2015-03-21 22:31:12",
+  "ModifiedTime": "2016-02-23 23:55:55",
+  "ViewTime": "2016-02-23 23:55:40",
   "FilePath": [
-    "Q:\\QI\\__+0!U()$คลิปหลุดไทย ชวนแฟนมาห้องละเยสสะ${}[]=6751117cc41b15df23102a0172adfd3d.flv"
+    "Q:\\QI\\TH+2!X()$คลิปหลุดไทย ชวนแฟนมาห้องละเยสสะ${}[clip]=6751117cc41b15df23102a0172adfd3d.flv"
   ],
   "FileSize": 114914849,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

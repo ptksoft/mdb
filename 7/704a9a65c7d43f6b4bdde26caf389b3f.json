@@ -1,20 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "หน้าเหมือนไทย แต่ร้องอิไตๆ",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "mature"
+  ],
   "Hash": "704a9a65c7d43f6b4bdde26caf389b3f",
   "CreatedTime": "2015-01-22 00:30:31",
-  "ModifiedTime": "2015-03-21 22:13:17",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-23 22:34:08",
+  "ViewTime": "2016-02-23 22:33:12",
   "FilePath": [
-    "Q:\\QH\\__+0!U()$หน้าเหมือนไทย แต่ร้องอิไตๆ${}[]=704a9a65c7d43f6b4bdde26caf389b3f.flv",
+    "Q:\\QH\\JP+3!X()$หน้าเหมือนไทย แต่ร้องอิไตๆ${}[mature]=704a9a65c7d43f6b4bdde26caf389b3f.flv",
     "G:\\GXXX\\__+0!U()$หน้าเหมือนไทย แต่ร้องอิไตๆ${}[]=704a9a65c7d43f6b4bdde26caf389b3f.flv"
   ],
   "FileSize": 86063617,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

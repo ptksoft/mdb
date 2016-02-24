@@ -1,20 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "TEK-062",
-  "Title": "TEK-062",
+  "Title": "Shock Mermaid Of Global Competition First Place Is MUTEKI",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "swimsuit"
+  ],
   "Hash": "b051a841a0a24200e361621840fee23a",
   "CreatedTime": "2015-02-18 22:38:39",
-  "ModifiedTime": "2015-03-21 22:12:54",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-02-23 23:21:36",
+  "ViewTime": "2016-02-23 23:19:14",
   "FilePath": [
-    "Q:\\QG\\__+0!U(TEK-062)$TEK-062${}[]=b051a841a0a24200e361621840fee23a.mp4",
+    "Q:\\QG\\JP+3!C(TEK-062)$Shock Mermaid Of Global Competition First Place Is MUTEKI${}[swimsuit]=b051a841a0a24200e361621840fee23a.mp4",
     "G:\\GXXX\\__+0!U(TEK-062)$TEK-062${}[]=b051a841a0a24200e361621840fee23a.mp4"
   ],
   "FileSize": 1989250858,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

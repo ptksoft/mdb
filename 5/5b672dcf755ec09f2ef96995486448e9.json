@@ -1,7 +1,7 @@
 {
   "Country": "TH",
-  "Rating": 0,
-  "Type": "C",
+  "Rating": 3,
+  "Type": "R",
   "Code": "",
   "Title": "ติวเตอร์หนุ่มระเริงรัก",
   "Actress": [],
@@ -11,12 +11,12 @@
   ],
   "Hash": "5b672dcf755ec09f2ef96995486448e9",
   "CreatedTime": "2015-03-31 00:00:20",
-  "ModifiedTime": "2015-03-31 00:00:59",
-  "ViewTime": "2015-03-31 00:00:25",
+  "ModifiedTime": "2016-02-23 20:34:54",
+  "ViewTime": "2016-02-23 20:33:47",
   "FilePath": [
-    "Q:\\QA\\TH+0!C()$ติวเตอร์หนุ่มระเริงรัก${}[swing,teacher]=5b672dcf755ec09f2ef96995486448e9.avi"
+    "Q:\\QA\\TH+3!R()$ติวเตอร์หนุ่มระเริงรัก${}[swing,teacher]=5b672dcf755ec09f2ef96995486448e9.avi"
   ],
   "FileSize": 273811362,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

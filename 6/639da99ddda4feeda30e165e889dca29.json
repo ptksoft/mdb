@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 2,
+  "Type": "X",
   "Code": "",
   "Title": "คลิปหลุดวัยรุ่นไทย โม๊กก่อนเสียบ ซี๊ดดัง",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "639da99ddda4feeda30e165e889dca29",
   "CreatedTime": "2015-03-21 22:31:34",
-  "ModifiedTime": "2015-03-21 22:31:48",
-  "ViewTime": "2015-03-21 22:31:36",
+  "ModifiedTime": "2016-02-23 22:49:01",
+  "ViewTime": "2016-02-23 22:48:44",
   "FilePath": [
-    "Q:\\QI\\__+0!U()$คลิปหลุดวัยรุ่นไทย โม๊กก่อนเสียบ ซี๊ดดัง${}[]=639da99ddda4feeda30e165e889dca29.flv"
+    "Q:\\QI\\TH+2!X()$คลิปหลุดวัยรุ่นไทย โม๊กก่อนเสียบ ซี๊ดดัง${}[clip]=639da99ddda4feeda30e165e889dca29.flv"
   ],
   "FileSize": 22807828,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }
