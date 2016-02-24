@@ -1,5 +1,5 @@
 {
-  "Country": "__",
+  "Country": "US",
   "Rating": 2,
   "Type": "X",
   "Code": "",
@@ -10,11 +10,9 @@
   ],
   "Hash": "852b487e8e49f17e8c899fa07e899f6d",
   "CreatedTime": "2015-02-20 22:05:47",
-  "ModifiedTime": "2016-02-22 22:00:16",
+  "ModifiedTime": "2016-02-24 22:37:04",
   "ViewTime": "2016-02-22 21:59:36",
-  "FilePath": [
-    "G:\\GXXX\\__+0!U()$94648${}[]=852b487e8e49f17e8c899fa07e899f6d.mp4"
-  ],
+  "FilePath": [],
   "FileSize": 27949632,
   "Story": "",
   "CountPlay": "1"
