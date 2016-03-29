@@ -1,22 +1,25 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 2,
+  "Type": "X",
   "Code": "",
   "Title": "Monarch Sc7",
   "Actress": [
     "EVA LOVIA",
     "FRANCESKA JAIMES"
   ],
-  "Tag": [],
+  "Tag": [
+    "mature",
+    "story"
+  ],
   "Hash": "c48ae928a2ccc8dae405a965c6a6c6e6",
   "CreatedTime": "2016-02-25 22:14:07",
-  "ModifiedTime": "2016-02-25 22:14:27",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-30 01:34:34",
+  "ViewTime": "2016-03-30 01:34:06",
   "FilePath": [
-    "G:\\G5\\__+0!U()$Monarch Sc7${EVA LOVIA,FRANCESKA JAIMES}[]=c48ae928a2ccc8dae405a965c6a6c6e6.mp4"
+    "G:\\G5\\US+2!X()$Monarch Sc7${EVA LOVIA,FRANCESKA JAIMES}[mature,story]=c48ae928a2ccc8dae405a965c6a6c6e6.mp4"
   ],
   "FileSize": 477057940,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

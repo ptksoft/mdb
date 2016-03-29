@@ -1,22 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "RHJ-044",
-  "Title": "Red Hot Jam Vol 44",
+  "Title": "Red Hot Jam Vol 44 FInd an Ape Man",
   "Actress": [
     "CHRIS OZAWA",
     "JURI MOMOIRO"
   ],
-  "Tag": [],
+  "Tag": [
+    "car"
+  ],
   "Hash": "81e904324b8ec63ba1d8cc6ca9a81e06",
   "CreatedTime": "2016-02-25 21:00:52",
-  "ModifiedTime": "2016-02-25 21:01:39",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-22 22:31:12",
+  "ViewTime": "2016-03-22 22:29:24",
   "FilePath": [
-    "G:\\G5\\__+0!U(RHJ-044)$Red Hot Jam Vol 44${CHRIS OZAWA,JURI MOMOIRO}[]=81e904324b8ec63ba1d8cc6ca9a81e06.avi"
+    "G:\\G5\\JP+3!X(RHJ-044)$Red Hot Jam Vol 44 FInd an Ape Man${CHRIS OZAWA,JURI MOMOIRO}[car]=81e904324b8ec63ba1d8cc6ca9a81e06.avi"
   ],
   "FileSize": 732964518,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

@@ -1,19 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 4,
+  "Type": "X",
   "Code": "CARIB-919",
   "Title": "071115-919-carib-1080p",
-  "Actress": [],
-  "Tag": [],
+  "Actress": [
+    "KOKOMI HOSHINO"
+  ],
+  "Tag": [
+    "1080p",
+    "swimsuit"
+  ],
   "Hash": "f9a7c5cd433de07410cdbdb81b484c55",
   "CreatedTime": "2015-08-07 23:13:32",
-  "ModifiedTime": "2015-08-07 23:14:24",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-30 01:19:25",
+  "ViewTime": "2016-03-30 01:17:59",
   "FilePath": [
-    "G:\\G5\\__+0!U(CARIB-919)$071115-919-carib-1080p${}[]=f9a7c5cd433de07410cdbdb81b484c55.mp4"
+    "G:\\G5\\JP+4!X(CARIB-919)$071115-919-carib-1080p${KOKOMI HOSHINO}[1080p,swimsuit]=f9a7c5cd433de07410cdbdb81b484c55.mp4"
   ],
   "FileSize": 1872798628,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

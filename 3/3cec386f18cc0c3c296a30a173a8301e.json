@@ -1,19 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "คลิป VIP อึบสาวระดับพริตตี้",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip",
+    "cute",
+    "hotel"
+  ],
   "Hash": "3cec386f18cc0c3c296a30a173a8301e",
   "CreatedTime": "2015-04-29 20:55:11",
-  "ModifiedTime": "2015-04-29 20:55:12",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-30 00:48:22",
+  "ViewTime": "2016-03-30 00:47:58",
   "FilePath": [
-    "G:\\G2\\__+0!U()$คลิป VIP อึบสาวระดับพริตตี้${}[]=3cec386f18cc0c3c296a30a173a8301e.mp4"
+    "G:\\G2\\TH+3!X()$คลิป VIP อึบสาวระดับพริตตี้${}[clip,cute,hotel]=3cec386f18cc0c3c296a30a173a8301e.mp4"
   ],
   "FileSize": 29331605,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

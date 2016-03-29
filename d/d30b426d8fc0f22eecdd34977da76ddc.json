@@ -1,19 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "CT-07",
-  "Title": "",
+  "Title": "Chicken Teriyaki Vol 7",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "hotel",
+    "mature"
+  ],
   "Hash": "d30b426d8fc0f22eecdd34977da76ddc",
   "CreatedTime": "2016-02-25 21:05:36",
-  "ModifiedTime": "2016-02-25 21:05:58",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-30 01:22:06",
+  "ViewTime": "2016-03-30 01:21:13",
   "FilePath": [
-    "G:\\G5\\__+0!U(CT-07)$${}[]=d30b426d8fc0f22eecdd34977da76ddc.avi"
+    "G:\\G5\\JP+3!X(CT-07)$Chicken Teriyaki Vol 7${}[hotel,mature]=d30b426d8fc0f22eecdd34977da76ddc.avi"
   ],
   "FileSize": 962292710,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

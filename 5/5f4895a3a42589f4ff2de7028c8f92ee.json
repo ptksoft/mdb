@@ -1,21 +1,25 @@
 {
   "Country": "JP",
-  "Rating": 0,
+  "Rating": 4,
   "Type": "X",
   "Code": "HEYZO-0302",
   "Title": "First back",
   "Actress": [
     "SUKURA AIDA"
   ],
-  "Tag": [],
+  "Tag": [
+    "1080p",
+    "cute",
+    "swing"
+  ],
   "Hash": "5f4895a3a42589f4ff2de7028c8f92ee",
   "CreatedTime": "2014-03-22 06:03:08",
-  "ModifiedTime": "2015-06-09 09:14:18",
-  "ViewTime": "2014-03-22 06:20:54",
+  "ModifiedTime": "2016-03-30 00:45:12",
+  "ViewTime": "2016-03-30 00:43:42",
   "FilePath": [
-    "G:\\G4\\JP+0!X(HEYZO-0302)$First back${SUKURA AIDA}[]=5f4895a3a42589f4ff2de7028c8f92ee.mp4"
+    "G:\\G4\\JP+4!X(HEYZO-0302)$First back${SUKURA AIDA}[1080p,cute,swing]=5f4895a3a42589f4ff2de7028c8f92ee.mp4"
   ],
   "FileSize": 2266059051,
   "Story": "",
-  "CountPlay": "2"
+  "CountPlay": "3"
 }

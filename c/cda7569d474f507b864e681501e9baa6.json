@@ -1,19 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "1PON-121715_3311",
   "Title": "121715_3311-1pon-1080p",
-  "Actress": [],
-  "Tag": [],
+  "Actress": [
+    "RINA SERINO"
+  ],
+  "Tag": [
+    "1080p",
+    "mature"
+  ],
   "Hash": "cda7569d474f507b864e681501e9baa6",
   "CreatedTime": "2016-02-25 21:43:41",
-  "ModifiedTime": "2016-02-25 21:45:54",
-  "ViewTime": "2016-02-25 21:44:05",
+  "ModifiedTime": "2016-03-30 01:34:02",
+  "ViewTime": "2016-03-30 01:30:05",
   "FilePath": [
-    "G:\\G5\\__+0!U(1PON-121715_3311)$121715_3311-1pon-1080p${}[]=cda7569d474f507b864e681501e9baa6.mp4"
+    "G:\\G5\\JP+3!X(1PON-121715_3311)$121715_3311-1pon-1080p${RINA SERINO}[1080p,mature]=cda7569d474f507b864e681501e9baa6.mp4"
   ],
   "FileSize": 2056025543,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

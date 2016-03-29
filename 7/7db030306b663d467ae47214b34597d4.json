@@ -1,19 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "KR",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "คลิปหลุดจากเกาหลี",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip",
+    "swing"
+  ],
   "Hash": "7db030306b663d467ae47214b34597d4",
   "CreatedTime": "2013-11-04 08:34:43",
-  "ModifiedTime": "2015-04-27 20:17:14",
-  "ViewTime": "2013-11-04 08:34:47",
+  "ModifiedTime": "2016-03-30 01:26:58",
+  "ViewTime": "2016-03-30 01:26:16",
   "FilePath": [
-    "G:\\G1\\__+0!U()$คลิปหลุดจากเกาหลี${}[]=7db030306b663d467ae47214b34597d4.flv"
+    "G:\\G1\\KR+3!X()$คลิปหลุดจากเกาหลี${}[clip,swing]=7db030306b663d467ae47214b34597d4.flv"
   ],
   "FileSize": 72546462,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

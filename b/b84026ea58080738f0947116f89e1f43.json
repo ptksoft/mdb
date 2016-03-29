@@ -1,19 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "YUU-25",
-  "Title": "Disk 1",
+  "Title": "Beautiful Madam Vol3 Disk 1",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "mature",
+    "outdoor"
+  ],
   "Hash": "b84026ea58080738f0947116f89e1f43",
   "CreatedTime": "2016-02-25 21:09:50",
-  "ModifiedTime": "2016-02-25 21:10:45",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-18 22:15:34",
+  "ViewTime": "2016-03-18 22:15:02",
   "FilePath": [
-    "G:\\G5\\__+0!U(YUU-25)$Disk 1${}[]=b84026ea58080738f0947116f89e1f43.avi"
+    "G:\\G5\\JP+3!X(YUU-25)$Beautiful Madam Vol3 Disk 1${}[mature,outdoor]=b84026ea58080738f0947116f89e1f43.avi"
   ],
   "FileSize": 452873276,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "2"
 }

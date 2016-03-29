@@ -1,21 +1,24 @@
 {
   "Country": "JP",
-  "Rating": 0,
+  "Rating": 3,
   "Type": "X",
   "Code": "CARIB-091813-434",
   "Title": "Journey on Spring",
   "Actress": [
     "YUI UEHARA"
   ],
-  "Tag": [],
+  "Tag": [
+    "1080p",
+    "swing"
+  ],
   "Hash": "f98926b61031733dc79ab5dcbb74af35",
   "CreatedTime": "2014-03-22 06:21:29",
-  "ModifiedTime": "2015-06-09 09:14:18",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-30 01:04:53",
+  "ViewTime": "2016-03-30 01:03:03",
   "FilePath": [
-    "G:\\G4\\JP+0!X(CARIB-091813-434)$Journey on Spring${YUI UEHARA}[]=f98926b61031733dc79ab5dcbb74af35.mp4"
+    "G:\\G4\\JP+3!X(CARIB-091813-434)$Journey on Spring${YUI UEHARA}[1080p,swing]=f98926b61031733dc79ab5dcbb74af35.mp4"
   ],
   "FileSize": 2219560953,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

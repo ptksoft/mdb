@@ -1,21 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "Obsession",
   "Actress": [
     "JILLIAN JANSON"
   ],
-  "Tag": [],
+  "Tag": [
+    "1080p",
+    "mature"
+  ],
   "Hash": "de6658aa75e925d2851cf244f19f6261",
   "CreatedTime": "2015-04-29 22:00:30",
-  "ModifiedTime": "2015-04-29 22:01:42",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-30 00:46:40",
+  "ViewTime": "2016-03-30 00:45:49",
   "FilePath": [
-    "G:\\G2\\__+0!U()$Obsession${JILLIAN JANSON}[]=de6658aa75e925d2851cf244f19f6261.mp4"
+    "G:\\G2\\US+3!X()$Obsession${JILLIAN JANSON}[1080p,mature]=de6658aa75e925d2851cf244f19f6261.mp4"
   ],
   "FileSize": 1105970270,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

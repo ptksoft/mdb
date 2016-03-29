@@ -1,19 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "หลุดนักเรียน ญ กับครู",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip",
+    "student"
+  ],
   "Hash": "9bd77e607ebac89b604865711b6c2c2f",
   "CreatedTime": "2016-02-25 22:07:41",
-  "ModifiedTime": "2016-02-25 22:08:29",
-  "ViewTime": "2016-02-25 22:08:02",
+  "ModifiedTime": "2016-03-30 00:51:42",
+  "ViewTime": "2016-03-30 00:51:13",
   "FilePath": [
-    "G:\\G5\\__+0!U()$หลุดนักเรียน ญ กับครู${}[]=9bd77e607ebac89b604865711b6c2c2f.mp4"
+    "G:\\G5\\TH+3!X()$หลุดนักเรียน ญ กับครู${}[clip,student]=9bd77e607ebac89b604865711b6c2c2f.mp4"
   ],
   "FileSize": 11845755,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

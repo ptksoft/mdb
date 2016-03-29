@@ -1,19 +1,22 @@
 {
   "Country": "TH",
-  "Rating": 0,
-  "Type": "C",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "ชู้รักผัวเพื่อน ผัวตัวแสบย่องเย็ดเพื่อนสาวเมีย",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "lover",
+    "swing"
+  ],
   "Hash": "a1cffe01d2b5fa1ae76502e1c6249a49",
   "CreatedTime": "2015-06-09 08:50:45",
-  "ModifiedTime": "2015-06-09 08:50:52",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2016-03-30 00:47:55",
+  "ViewTime": "2016-03-30 00:47:31",
   "FilePath": [
-    "G:\\G3\\TH+0!C()$ชู้รักผัวเพื่อน ผัวตัวแสบย่องเย็ดเพื่อนสาวเมีย${}[]=a1cffe01d2b5fa1ae76502e1c6249a49.mp4"
+    "G:\\G3\\TH+3!X()$ชู้รักผัวเพื่อน ผัวตัวแสบย่องเย็ดเพื่อนสาวเมีย${}[lover,swing]=a1cffe01d2b5fa1ae76502e1c6249a49.mp4"
   ],
   "FileSize": 206183020,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "2"
 }
