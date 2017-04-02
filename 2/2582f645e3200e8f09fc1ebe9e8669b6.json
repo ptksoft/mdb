@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "SW-348",
   "Title": "",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "sport"
+  ],
   "Hash": "2582f645e3200e8f09fc1ebe9e8669b6",
   "CreatedTime": "2017-03-03 00:22:30",
-  "ModifiedTime": "2017-03-03 00:34:25",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2017-04-02 01:29:32",
+  "ViewTime": "2017-04-02 01:27:56",
   "FilePath": [
-    "G:\\G6\\__+0!U(SW-348)$${}[]=2582f645e3200e8f09fc1ebe9e8669b6.mp4"
+    "G:\\G6\\JP+3!C(SW-348)$${}[sport]=2582f645e3200e8f09fc1ebe9e8669b6.mp4"
   ],
   "FileSize": 1080233832,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
