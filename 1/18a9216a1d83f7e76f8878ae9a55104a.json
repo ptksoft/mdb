@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "CN",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "หนังโป๊จีนย้อนยุค โบราณ 240MB",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "ancient"
+  ],
   "Hash": "18a9216a1d83f7e76f8878ae9a55104a",
   "CreatedTime": "2016-04-05 22:08:07",
-  "ModifiedTime": "2016-11-05 01:43:24",
-  "ViewTime": "2016-11-05 01:44:18",
+  "ModifiedTime": "2017-04-07 22:35:54",
+  "ViewTime": "2017-04-07 22:32:32",
   "FilePath": [
-    "G:\\G4\\__+0!U()$หนังโป๊จีนย้อนยุค โบราณ 240MB${}[]=18a9216a1d83f7e76f8878ae9a55104a.flv"
+    "G:\\G4\\CN+3!X()$หนังโป๊จีนย้อนยุค โบราณ 240MB${}[ancient]=18a9216a1d83f7e76f8878ae9a55104a.flv"
   ],
   "FileSize": 252648293,
   "Story": "",
-  "CountPlay": "2"
+  "CountPlay": "3"
 }
