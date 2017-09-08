@@ -1,19 +1,21 @@
 {
-  "Country": "KR",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 1,
+  "Type": "X",
   "Code": "",
   "Title": "ลักหลับเด็กเกาหลี",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "33c177fc31586cbad521b6ed69b98267",
   "CreatedTime": "2013-08-11 22:55:53",
-  "ModifiedTime": "2013-08-11 22:56:02",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2017-09-08 23:40:27",
+  "ViewTime": "2017-09-08 23:39:40",
   "FilePath": [
-    "X:\\XC\\KR+0!U()$ลักหลับเด็กเกาหลี${}[]=33c177fc31586cbad521b6ed69b98267.mpg"
+    "X:\\XC\\TH+1!X()$ลักหลับเด็กเกาหลี${}[clip]=33c177fc31586cbad521b6ed69b98267.mpg"
   ],
   "FileSize": 380206400,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

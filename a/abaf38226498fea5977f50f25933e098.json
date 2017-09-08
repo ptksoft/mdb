@@ -1,19 +1,21 @@
 {
   "Country": "CN",
-  "Rating": 0,
-  "Type": "U",
+  "Rating": 1,
+  "Type": "X",
   "Code": "",
   "Title": "คลิปหลุด หมวยโยกเตียงสั่น",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "abaf38226498fea5977f50f25933e098",
   "CreatedTime": "2013-08-11 22:56:05",
-  "ModifiedTime": "2013-08-11 22:56:10",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2017-09-08 23:40:53",
+  "ViewTime": "2017-09-08 23:40:31",
   "FilePath": [
-    "X:\\XC\\CN+0!U()$คลิปหลุด หมวยโยกเตียงสั่น${}[]=abaf38226498fea5977f50f25933e098.wmv"
+    "X:\\XC\\CN+1!X()$คลิปหลุด หมวยโยกเตียงสั่น${}[clip]=abaf38226498fea5977f50f25933e098.wmv"
   ],
   "FileSize": 6512100,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

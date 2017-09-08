@@ -1,6 +1,6 @@
 {
   "Country": "JP",
-  "Rating": 0,
+  "Rating": 3,
   "Type": "X",
   "Code": "",
   "Title": "Lingeries Office - 1",
@@ -11,12 +11,12 @@
   ],
   "Hash": "20a1e44b313c5803c68fe094aa3866e4",
   "CreatedTime": "2013-08-04 19:32:36",
-  "ModifiedTime": "2013-08-04 22:46:09",
-  "ViewTime": "2013-08-04 21:56:22",
+  "ModifiedTime": "2017-09-08 23:45:04",
+  "ViewTime": "2017-09-08 23:44:41",
   "FilePath": [
-    "X:\\X9\\JP+0!X()$Lingeries Office - 1${}[cartoon,office]=20a1e44b313c5803c68fe094aa3866e4.ogm"
+    "X:\\X9\\JP+3!X()$Lingeries Office - 1${}[cartoon,office]=20a1e44b313c5803c68fe094aa3866e4.ogm"
   ],
   "FileSize": 283735708,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

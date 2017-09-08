@@ -1,19 +1,21 @@
 {
   "Country": "CN",
-  "Rating": 0,
-  "Type": "U",
+  "Rating": 1,
+  "Type": "X",
   "Code": "",
   "Title": "สาวหมวยยกทรงชมพู เอากับแฟนบนเตียง",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "d3c895476ba6c3d6a1ba03283baa654f",
   "CreatedTime": "2013-08-11 22:56:22",
-  "ModifiedTime": "2013-08-11 22:56:28",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2017-09-08 23:41:20",
+  "ViewTime": "2017-09-08 23:40:58",
   "FilePath": [
-    "X:\\XC\\CN+0!U()$สาวหมวยยกทรงชมพู เอากับแฟนบนเตียง${}[]=d3c895476ba6c3d6a1ba03283baa654f.wmv"
+    "X:\\XC\\CN+1!X()$สาวหมวยยกทรงชมพู เอากับแฟนบนเตียง${}[clip]=d3c895476ba6c3d6a1ba03283baa654f.wmv"
   ],
   "FileSize": 89227064,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
