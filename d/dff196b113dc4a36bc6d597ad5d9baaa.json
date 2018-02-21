@@ -1,19 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 2,
+  "Type": "X",
   "Code": "1PON_090517_576",
   "Title": "090517_576-1pon-1080p",
-  "Actress": [],
-  "Tag": [],
+  "Actress": [
+    "HITOMI OHASHI"
+  ],
+  "Tag": [
+    "1080p",
+    "mature"
+  ],
   "Hash": "dff196b113dc4a36bc6d597ad5d9baaa",
   "CreatedTime": "2017-09-09 02:42:03",
-  "ModifiedTime": "2017-09-09 02:42:22",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2017-10-12 06:33:35",
+  "ViewTime": "2017-10-12 06:31:47",
   "FilePath": [
-    "K:\\K3\\__+0!U(1PON_090517_576)$090517_576-1pon-1080p${}[]=dff196b113dc4a36bc6d597ad5d9baaa.mp4"
+    "K:\\K3\\JP+2!X(1PON_090517_576)$090517_576-1pon-1080p${HITOMI OHASHI}[1080p,mature]=dff196b113dc4a36bc6d597ad5d9baaa.mp4"
   ],
   "FileSize": 1893995350,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
