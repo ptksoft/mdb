@@ -1,19 +1,17 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "SW-346",
   "Title": "",
   "Actress": [],
   "Tag": [],
   "Hash": "aa50612c17d039347a00021a3a2e10de",
   "CreatedTime": "2017-03-03 00:22:44",
-  "ModifiedTime": "2017-03-03 00:34:29",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\G6\\__+0!U(SW-346)$${}[]=aa50612c17d039347a00021a3a2e10de.mp4"
-  ],
+  "ModifiedTime": "2019-03-23 21:13:08",
+  "ViewTime": "2019-03-23 21:10:58",
+  "FilePath": [],
   "FileSize": 1214089063,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

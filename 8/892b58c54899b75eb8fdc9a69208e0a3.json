@@ -1,21 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "JUC-157",
   "Title": "Watch JUC-157 Mai Hanano",
   "Actress": [
     "MAI HANANO"
   ],
-  "Tag": [],
+  "Tag": [
+    "cosplay"
+  ],
   "Hash": "892b58c54899b75eb8fdc9a69208e0a3",
   "CreatedTime": "2017-04-11 19:29:50",
-  "ModifiedTime": "2017-04-11 19:30:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\G2\\__+0!U(JUC-157)$Watch JUC-157 Mai Hanano${MAI HANANO}[]=892b58c54899b75eb8fdc9a69208e0a3.mp4"
-  ],
+  "ModifiedTime": "2019-03-23 20:26:10",
+  "ViewTime": "2019-03-23 20:25:36",
+  "FilePath": [],
   "FileSize": 443848809,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

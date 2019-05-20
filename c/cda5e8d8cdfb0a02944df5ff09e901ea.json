@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 5,
+  "Type": "C",
   "Code": "SW-385",
   "Title": "",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "incest"
+  ],
   "Hash": "cda5e8d8cdfb0a02944df5ff09e901ea",
   "CreatedTime": "2017-03-03 00:18:48",
-  "ModifiedTime": "2017-03-03 00:22:17",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2019-03-23 21:10:52",
+  "ViewTime": "2019-03-23 20:54:19",
   "FilePath": [
-    "G:\\G6\\__+0!U(SW-385)$${}[]=cda5e8d8cdfb0a02944df5ff09e901ea.mp4"
+    "G:\\G6\\JP+5!C(SW-385)$${}[incest]=cda5e8d8cdfb0a02944df5ff09e901ea.mp4"
   ],
   "FileSize": 1318248245,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

@@ -1,19 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "mic_ava_leigh_kl041216_480p_1000",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "mature"
+  ],
   "Hash": "7d275a35cbd26858bdc7e1c69485fc40",
   "CreatedTime": "2017-03-03 22:21:20",
-  "ModifiedTime": "2017-03-03 22:21:26",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\G6\\__+0!U()$mic_ava_leigh_kl041216_480p_1000${}[]=7d275a35cbd26858bdc7e1c69485fc40.mp4"
-  ],
+  "ModifiedTime": "2019-03-23 20:26:49",
+  "ViewTime": "2019-03-23 20:26:14",
+  "FilePath": [],
   "FileSize": 312106185,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
