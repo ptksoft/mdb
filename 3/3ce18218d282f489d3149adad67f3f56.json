@@ -1,21 +1,24 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 4,
+  "Type": "X",
   "Code": "",
   "Title": "Babes - Mean Teacher",
   "Actress": [
     "MORGAN RODRIGUEZ"
   ],
-  "Tag": [],
+  "Tag": [
+    "sport",
+    "swimsuit"
+  ],
   "Hash": "3ce18218d282f489d3149adad67f3f56",
   "CreatedTime": "2018-03-04 03:52:13",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2019-06-19 20:31:33",
+  "ViewTime": "2019-06-19 20:30:39",
   "FilePath": [
-    "G:\\0\\__+0!U()$Babes - Mean Teacher${MORGAN RODRIGUEZ}[]=3ce18218d282f489d3149adad67f3f56.mp4"
+    "G:\\0\\US+4!X()$Babes - Mean Teacher${MORGAN RODRIGUEZ}[sport,swimsuit]=3ce18218d282f489d3149adad67f3f56.mp4"
   ],
   "FileSize": 814483616,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

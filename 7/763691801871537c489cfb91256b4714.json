@@ -1,19 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 4,
+  "Type": "X",
   "Code": "",
   "Title": "dnj.luna.corazon",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "blacked",
+    "outdoor"
+  ],
   "Hash": "763691801871537c489cfb91256b4714",
   "CreatedTime": "2018-12-06 22:26:05",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2019-06-19 20:10:05",
+  "ViewTime": "2019-06-19 20:09:32",
   "FilePath": [
-    "G:\\0\\__+0!U()$dnj.luna.corazon${}[]=763691801871537c489cfb91256b4714.mp4"
+    "G:\\0\\US+4!X()$dnj.luna.corazon${}[blacked,outdoor]=763691801871537c489cfb91256b4714.mp4"
   ],
   "FileSize": 1035260293,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

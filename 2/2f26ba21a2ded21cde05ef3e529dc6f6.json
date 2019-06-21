@@ -1,20 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "MEYD-249",
-  "Title": "",
-  "Actress": [],
-  "Tag": [],
+  "Title": "I In Fact We Continue To Be Committed To The Boss Of The Husband",
+  "Actress": [
+    "SEISHIRO SNOW"
+  ],
+  "Tag": [
+    "boss",
+    "lover",
+    "wife"
+  ],
   "Hash": "2f26ba21a2ded21cde05ef3e529dc6f6",
   "CreatedTime": "2017-03-30 23:30:08",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\__+0!U(MEYD-249)$${}[]=2f26ba21a2ded21cde05ef3e529dc6f6.mp4",
-    "G:\\G7\\__+0!U(MEYD-249)$${}[]=2f26ba21a2ded21cde05ef3e529dc6f6.mp4"
-  ],
+  "ModifiedTime": "2019-06-19 20:19:15",
+  "ViewTime": "2019-06-19 20:17:06",
+  "FilePath": [],
   "FileSize": 1770122699,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
