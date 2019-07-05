@@ -1,21 +1,25 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 4,
+  "Type": "C",
   "Code": "AQSH-024",
   "Title": "It Seems That She Is Hanging Around With A Coach Of Her Husband",
   "Actress": [
     "SHINODA YUU"
   ],
-  "Tag": [],
+  "Tag": [
+    "lover",
+    "sport",
+    "wife"
+  ],
   "Hash": "6fc8ff0c20df9cf30f0a61660a27a696",
   "CreatedTime": "2019-01-15 22:19:33",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "2019-01-15 22:20:14",
+  "ModifiedTime": "2019-07-05 21:10:11",
+  "ViewTime": "2019-07-05 21:07:55",
   "FilePath": [
-    "G:\\0\\__+0!U(AQSH-024)$It Seems That She Is Hanging Around With A Coach Of Her Husband${SHINODA YUU}[]=6fc8ff0c20df9cf30f0a61660a27a696.mp4"
+    "G:\\0\\JP+4!C(AQSH-024)$It Seems That She Is Hanging Around With A Coach Of Her Husband${SHINODA YUU}[lover,sport,wife]=6fc8ff0c20df9cf30f0a61660a27a696.mp4"
   ],
   "FileSize": 1431936080,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

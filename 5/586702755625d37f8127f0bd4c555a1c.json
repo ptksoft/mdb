@@ -1,19 +1,20 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "RIX-037",
   "Title": "Business Hotel Massage Business Trip Voyeur 2",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "hotel",
+    "massage"
+  ],
   "Hash": "586702755625d37f8127f0bd4c555a1c",
   "CreatedTime": "2017-05-10 20:26:38",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\__+0!U(RIX-037)$Business Hotel Massage Business Trip Voyeur 2${}[]=586702755625d37f8127f0bd4c555a1c.avi"
-  ],
+  "ModifiedTime": "2019-07-05 21:01:34",
+  "ViewTime": "2019-07-05 21:00:52",
+  "FilePath": [],
   "FileSize": 2512382655,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

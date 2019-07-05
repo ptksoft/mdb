@@ -1,20 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "RAW-033",
-  "Title": "",
-  "Actress": [],
-  "Tag": [],
+  "Title": "A Certain Famous Private University Four Years Swimming Part Breaststroke",
+  "Actress": [
+    "ARAKAWA YUKI"
+  ],
+  "Tag": [
+    "swimsuit"
+  ],
   "Hash": "8cb5ff084dc57b738d08e7a5f5662a5b",
   "CreatedTime": "2017-03-30 22:56:41",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\__+0!U(RAW-033)$${}[]=8cb5ff084dc57b738d08e7a5f5662a5b.avi",
-    "G:\\G7\\__+0!U(RAW-033)$${}[]=8cb5ff084dc57b738d08e7a5f5662a5b.avi"
-  ],
+  "ModifiedTime": "2019-07-05 21:16:28",
+  "ViewTime": "2019-07-05 21:15:19",
+  "FilePath": [],
   "FileSize": 1320284793,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

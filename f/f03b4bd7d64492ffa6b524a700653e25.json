@@ -1,20 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 4,
+  "Type": "C",
   "Code": "SW-358",
-  "Title": "",
+  "Title": "Summer Camp Is Full Of Excitement",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "outdoor"
+  ],
   "Hash": "f03b4bd7d64492ffa6b524a700653e25",
   "CreatedTime": "2017-03-03 00:22:23",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2019-07-05 20:55:04",
+  "ViewTime": "2019-07-05 20:53:11",
   "FilePath": [
-    "G:\\0\\__+0!U(SW-358)$${}[]=f03b4bd7d64492ffa6b524a700653e25.mp4",
+    "G:\\0\\JP+4!C(SW-358)$Summer Camp Is Full Of Excitement${}[outdoor]=f03b4bd7d64492ffa6b524a700653e25.mp4",
     "G:\\G6\\__+0!U(SW-358)$${}[]=f03b4bd7d64492ffa6b524a700653e25.mp4"
   ],
   "FileSize": 1228769334,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
