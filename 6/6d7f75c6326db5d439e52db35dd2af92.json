@@ -1,20 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "Cute Young",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "cute"
+  ],
   "Hash": "6d7f75c6326db5d439e52db35dd2af92",
   "CreatedTime": "2013-10-22 08:22:57",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\__+0!U()$Cute Young${}[]=6d7f75c6326db5d439e52db35dd2af92.mp4",
-    "G:\\G1\\__+0!U()$Cute Young${}[]=6d7f75c6326db5d439e52db35dd2af92.mp4"
-  ],
+  "ModifiedTime": "2020-12-03 19:41:07",
+  "ViewTime": "2020-12-03 19:40:26",
+  "FilePath": [],
   "FileSize": 122248721,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

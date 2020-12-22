@@ -1,22 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "X",
   "Code": "HEYZO-0783",
-  "Title": "",
+  "Title": "Beautiful Girl Gorgeous Skin",
   "Actress": [
     "OHASHI MIKU"
   ],
-  "Tag": [],
+  "Tag": [
+    "beauty"
+  ],
   "Hash": "03647305c08aed42213d1371ef48221a",
   "CreatedTime": "2017-03-03 22:20:32",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\__+0!U(HEYZO-0783)$${OHASHI MIKU}[]=03647305c08aed42213d1371ef48221a.mp4",
-    "G:\\G6\\__+0!U(HEYZO-0783)$${OHASHI MIKU}[]=03647305c08aed42213d1371ef48221a.mp4"
-  ],
+  "ModifiedTime": "2020-12-22 19:08:10",
+  "ViewTime": "2020-12-22 19:07:13",
+  "FilePath": [],
   "FileSize": 494364020,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

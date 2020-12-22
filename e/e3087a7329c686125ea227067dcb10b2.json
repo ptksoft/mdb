@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "YST-109",
-  "Title": "",
+  "Title": "Furukawa Not Referred To As The Old Hags Sake Sachiko",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "cosplay",
+    "same",
+    "student"
+  ],
   "Hash": "e3087a7329c686125ea227067dcb10b2",
   "CreatedTime": "2017-04-29 20:03:58",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "2018-11-26 01:49:56",
-  "FilePath": [
-    "G:\\0\\__+0!U(YST-109)$${}[]=e3087a7329c686125ea227067dcb10b2.avi"
-  ],
+  "ModifiedTime": "2020-12-03 19:44:10",
+  "ViewTime": "2020-12-03 19:42:51",
+  "FilePath": [],
   "FileSize": 1236603397,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

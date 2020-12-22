@@ -1,6 +1,6 @@
 {
   "Country": "US",
-  "Rating": 0,
+  "Rating": 2,
   "Type": "X",
   "Code": "",
   "Title": "Sperminator 2007 XXX Parody Disk B",
@@ -10,12 +10,10 @@
   ],
   "Hash": "c29ba8c17ee5de59eb57006ecd62eeea",
   "CreatedTime": "2018-02-19 21:18:08",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\US+0!X()$Sperminator 2007 XXX Parody Disk B${}[parody]=c29ba8c17ee5de59eb57006ecd62eeea.mp4"
-  ],
+  "ModifiedTime": "2020-12-03 19:45:40",
+  "ViewTime": "2020-12-03 19:45:15",
+  "FilePath": [],
   "FileSize": 232785318,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

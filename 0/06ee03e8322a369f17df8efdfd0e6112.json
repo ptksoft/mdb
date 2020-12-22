@@ -1,20 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 2,
+  "Type": "X",
   "Code": "",
   "Title": "หลุดไทยบ้านๆผัวเมียคู่หื่น ทุกรูปแบบขวดยัด",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "06ee03e8322a369f17df8efdfd0e6112",
   "CreatedTime": "2016-04-05 21:39:26",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\__+0!U()$หลุดไทยบ้านๆผัวเมียคู่หื่น ทุกรูปแบบขวดยัด${}[]=06ee03e8322a369f17df8efdfd0e6112.wmv",
-    "G:\\G2\\__+0!U()$หลุดไทยบ้านๆผัวเมียคู่หื่น ทุกรูปแบบขวดยัด${}[]=06ee03e8322a369f17df8efdfd0e6112.wmv"
-  ],
+  "ModifiedTime": "2020-12-03 20:38:37",
+  "ViewTime": "2020-12-03 20:38:00",
+  "FilePath": [],
   "FileSize": 178455346,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

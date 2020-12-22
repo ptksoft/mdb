@@ -1,19 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "หนังไทย สาวนาอยากลอง",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "story"
+  ],
   "Hash": "bbb3615ff4044884bd5aa9f8e3caa7c3",
   "CreatedTime": "2018-02-21 22:26:30",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "2018-02-21 22:26:34",
-  "FilePath": [
-    "G:\\0\\__+0!U()$หนังไทย สาวนาอยากลอง${}[]=bbb3615ff4044884bd5aa9f8e3caa7c3.MP4"
-  ],
+  "ModifiedTime": "2020-12-03 20:04:29",
+  "ViewTime": "2020-12-03 20:03:42",
+  "FilePath": [],
   "FileSize": 262969482,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

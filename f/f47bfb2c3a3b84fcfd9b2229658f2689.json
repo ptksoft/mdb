@@ -1,22 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "Sex All Day",
   "Actress": [
     "SOFIA VALLETTA"
   ],
-  "Tag": [],
+  "Tag": [
+    "mature",
+    "sofa"
+  ],
   "Hash": "f47bfb2c3a3b84fcfd9b2229658f2689",
   "CreatedTime": "2017-03-30 23:24:10",
-  "ModifiedTime": "2019-05-21 22:01:11",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "G:\\0\\__+0!U()$Sex All Day${SOFIA VALLETTA}[]=f47bfb2c3a3b84fcfd9b2229658f2689.mp4",
-    "G:\\G7\\__+0!U()$Sex All Day${SOFIA VALLETTA}[]=f47bfb2c3a3b84fcfd9b2229658f2689.mp4"
-  ],
+  "ModifiedTime": "2020-12-03 19:45:03",
+  "ViewTime": "2020-12-03 19:44:19",
+  "FilePath": [],
   "FileSize": 321245204,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
