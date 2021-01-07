@@ -1,19 +1,26 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 4,
+  "Type": "C",
   "Code": "JUL-411",
-  "Title": "",
-  "Actress": [],
-  "Tag": [],
+  "Title": "Sudden Heavy Rain While Going Around. The Rain Shelter Is A Love Hotel",
+  "Actress": [
+    "MAKI TOMODA"
+  ],
+  "Tag": [
+    "hotel",
+    "lover",
+    "office"
+  ],
   "Hash": "20e736bb6ddb23ccd29a4a5306192057",
   "CreatedTime": "2020-12-23 16:03:00",
-  "ModifiedTime": "2020-12-23 16:05:50",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2021-01-07 18:28:48",
+  "ViewTime": "2021-01-07 18:19:12",
   "FilePath": [
-    "G:\\\\__+0!U(JUL-411)$${}[]=20e736bb6ddb23ccd29a4a5306192057.mp4"
+    "G:\\4\\JP+4!C(JUL-411)$Sudden Heavy Rain While Going Around. The Rain Shelter Is A Love Hotel${MAKI TOMODA}[hotel,lover,office]=20e736bb6ddb23ccd29a4a5306192057.mp4",
+    "G:\\\\JP+4!C(JUL-411)$Sudden Heavy Rain While Going Around. The Rain Shelter Is A Love Hotel${MAKI TOMODA}[hotel,lover,office]=20e736bb6ddb23ccd29a4a5306192057.mp4"
   ],
   "FileSize": 1628893008,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
