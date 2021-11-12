@@ -1,19 +1,21 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
-  "Code": "",
-  "Title": "MEYD-658",
-  "Actress": [],
-  "Tag": [],
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
+  "Code": "MEYD-658",
+  "Title": "",
+  "Actress": [
+    "SAKI OKUDA"
+  ],
+  "Tag": [
+    "story"
+  ],
   "Hash": "54312e2ce373ff74ba59071d360ac1da",
   "CreatedTime": "2021-03-23 17:55:49",
-  "ModifiedTime": "2021-03-23 18:02:53",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "B:\\TORRENT-TEMP\\Moved-NoteBook\\__+0!U()$MEYD-658${}[]=54312e2ce373ff74ba59071d360ac1da.mp4"
-  ],
+  "ModifiedTime": "2021-04-20 18:03:20",
+  "ViewTime": "2021-04-20 18:00:44",
+  "FilePath": [],
   "FileSize": 5590917707,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
