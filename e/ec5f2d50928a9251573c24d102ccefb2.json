@@ -1,20 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 2,
+  "Type": "C",
   "Code": "CMD-006",
   "Title": "Temptation in the beauty Salon",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "salon"
+  ],
   "Hash": "ec5f2d50928a9251573c24d102ccefb2",
   "CreatedTime": "2017-05-15 01:22:46",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "2018-11-26 01:56:45",
-  "FilePath": [
-    "T:\\_TORRENT\\__+0!U(CMD-006)$Temptation in the beauty Salon${}[]=ec5f2d50928a9251573c24d102ccefb2.mp4",
-    "G:\\0\\__+0!U(CMD-006)$Temptation in the beauty Salon${}[]=ec5f2d50928a9251573c24d102ccefb2.mp4"
-  ],
+  "ModifiedTime": "2025-08-04 11:50:31",
+  "ViewTime": "2025-08-04 11:49:27",
+  "FilePath": [],
   "FileSize": 1550767791,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

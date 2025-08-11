@@ -1,22 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 5,
+  "Type": "X",
   "Code": "",
   "Title": "Justice League XXX - An Axel Braun Parody 2017 1080p",
   "Actress": [],
   "Tag": [
-    "parody"
+    "parody",
+    "1080p"
   ],
   "Hash": "bc2cce152657d5e1419493dbc35a21f7",
   "CreatedTime": "2018-02-21 20:59:18",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2025-08-06 00:45:55",
+  "ViewTime": "2025-08-06 00:40:18",
   "FilePath": [
-    "T:\\_TORRENT\\__+0!U()$Justice League XXX - An Axel Braun Parody 2017 1080p${}[parody]=bc2cce152657d5e1419493dbc35a21f7.mp4",
+    "T:\\_TORRENT\\US+5!X()$Justice League XXX - An Axel Braun Parody 2017 1080p${}[parody,1080p]=bc2cce152657d5e1419493dbc35a21f7.mp4",
     "G:\\0\\__+0!U()$Justice League XXX - An Axel Braun Parody 2017 1080p${}[parody]=bc2cce152657d5e1419493dbc35a21f7.mp4"
   ],
   "FileSize": 6937396798,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

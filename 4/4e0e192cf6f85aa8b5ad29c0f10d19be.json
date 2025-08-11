@@ -1,23 +1,22 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "VEC-222",
   "Title": "Friends Of The Mother Article Ayaginu Mika",
   "Actress": [
     "AYAGINU MIKA"
   ],
-  "Tag": [],
+  "Tag": [
+    "mature",
+    "mother"
+  ],
   "Hash": "4e0e192cf6f85aa8b5ad29c0f10d19be",
   "CreatedTime": "2017-03-30 23:13:34",
-  "ModifiedTime": "2022-01-14 14:57:25",
-  "ViewTime": "2017-03-30 23:14:07",
-  "FilePath": [
-    "T:\\_TORRENT\\__+0!U(VEC-222)$${}[]=4e0e192cf6f85aa8b5ad29c0f10d19be.mp4",
-    "G:\\0\\__+0!U(VEC-222)$${}[]=4e0e192cf6f85aa8b5ad29c0f10d19be.mp4",
-    "G:\\G7\\__+0!U(VEC-222)$${}[]=4e0e192cf6f85aa8b5ad29c0f10d19be.mp4"
-  ],
+  "ModifiedTime": "2025-08-05 02:36:56",
+  "ViewTime": "2025-08-05 02:35:51",
+  "FilePath": [],
   "FileSize": 1160136691,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

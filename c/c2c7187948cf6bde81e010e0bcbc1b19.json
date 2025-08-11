@@ -1,21 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 2,
+  "Type": "C",
   "Code": "",
   "Title": "น.ย.ตาก",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "c2c7187948cf6bde81e010e0bcbc1b19",
   "CreatedTime": "2014-07-18 08:52:34",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "T:\\_TORRENT\\__+0!U()$น.ย.ตาก${}[]=c2c7187948cf6bde81e010e0bcbc1b19.3gp",
-    "G:\\0\\__+0!U()$น.ย.ตาก${}[]=c2c7187948cf6bde81e010e0bcbc1b19.3gp",
-    "G:\\G1\\__+0!U()$น.ย.ตาก${}[]=c2c7187948cf6bde81e010e0bcbc1b19.3gp"
-  ],
+  "ModifiedTime": "2025-08-09 01:12:17",
+  "ViewTime": "2025-08-09 01:11:39",
+  "FilePath": [],
   "FileSize": 56517418,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

@@ -1,20 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "DOHI-066",
-  "Title": "",
-  "Actress": [],
-  "Tag": [],
+  "Title": "A Woman Who Witnessed Her Daughter Reversing Her Son Rebelled With Frustration Mama Came Up With Her Close",
+  "Actress": [
+    "MIHINA NAGAI"
+  ],
+  "Tag": [
+    "1080p",
+    "mother",
+    "sister"
+  ],
   "Hash": "364315f4bbc6feef0b67f6e76b742813",
   "CreatedTime": "2018-05-13 20:52:34",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "T:\\_TORRENT\\__+0!U(DOHI-066)$${}[]=364315f4bbc6feef0b67f6e76b742813.mp4",
-    "G:\\0\\__+0!U(DOHI-066)$${}[]=364315f4bbc6feef0b67f6e76b742813.mp4"
-  ],
+  "ModifiedTime": "2025-08-09 01:47:45",
+  "ViewTime": "2025-08-09 01:45:48",
+  "FilePath": [],
   "FileSize": 4231841595,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

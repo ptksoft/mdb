@@ -1,21 +1,25 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 4,
+  "Type": "C",
   "Code": "FUGA-44",
   "Title": "",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "massage",
+    "wife"
+  ],
   "Hash": "65672dd7071949b72c6eea9b20586967",
   "CreatedTime": "2021-01-06 16:32:29",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2025-08-05 23:48:13",
+  "ViewTime": "2025-08-05 02:30:17",
   "FilePath": [
-    "T:\\_TORRENT\\__+0!U(FUGA-44)$${}[]=65672dd7071949b72c6eea9b20586967.mp4",
+    "T:\\4X-500\\JP+4!C(FUGA-44)$${}[massage,wife]=65672dd7071949b72c6eea9b20586967.mp4",
+    "T:\\_TORRENT\\JP+4!C(FUGA-44)$${}[massage,wife]=65672dd7071949b72c6eea9b20586967.mp4",
     "G:\\0\\__+0!U(FUGA-44)$${}[]=65672dd7071949b72c6eea9b20586967.mp4",
     "G:\\\\__+0!U(FUGA-44)$${}[]=65672dd7071949b72c6eea9b20586967.mp4"
   ],
   "FileSize": 5013289778,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

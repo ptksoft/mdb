@@ -1,21 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "US",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "puremature katie",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "mature"
+  ],
   "Hash": "d75b112004b60c863a92c22eb15cb591",
   "CreatedTime": "2017-03-30 23:25:22",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "01-01-01 00:00:00",
-  "FilePath": [
-    "T:\\_TORRENT\\__+0!U()$puremature katie${}[]=d75b112004b60c863a92c22eb15cb591.mp4",
-    "G:\\0\\__+0!U()$puremature katie${}[]=d75b112004b60c863a92c22eb15cb591.mp4",
-    "G:\\G7\\__+0!U()$puremature katie${}[]=d75b112004b60c863a92c22eb15cb591.mp4"
-  ],
+  "ModifiedTime": "2025-08-05 23:57:41",
+  "ViewTime": "2025-08-05 23:55:02",
+  "FilePath": [],
   "FileSize": 610755847,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }

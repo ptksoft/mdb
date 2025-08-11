@@ -1,21 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "CN",
+  "Rating": 3,
+  "Type": "X",
   "Code": "",
   "Title": "Chinese",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "clip"
+  ],
   "Hash": "980552d41f7152620a0f3c4f3804a995",
   "CreatedTime": "2016-02-25 21:52:21",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "2016-02-25 21:52:34",
-  "FilePath": [
-    "T:\\_TORRENT\\__+0!U()$Chinese${}[]=980552d41f7152620a0f3c4f3804a995.wmv",
-    "G:\\0\\__+0!U()$Chinese${}[]=980552d41f7152620a0f3c4f3804a995.wmv",
-    "G:\\G5\\__+0!U()$Chinese${}[]=980552d41f7152620a0f3c4f3804a995.wmv"
-  ],
+  "ModifiedTime": "2025-08-04 11:57:13",
+  "ViewTime": "2025-08-04 11:55:58",
+  "FilePath": [],
   "FileSize": 694952047,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

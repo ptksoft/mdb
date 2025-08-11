@@ -1,20 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
-  "Code": "",
-  "Title": "DPMI-056",
+  "Country": "JP",
+  "Rating": 4,
+  "Type": "C",
+  "Code": "DPMI-056",
+  "Title": "A race queen with a perfect visual style",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "race-queen"
+  ],
   "Hash": "0ee6f2ee0361f25995f707528fea923f",
   "CreatedTime": "2021-03-01 18:43:53",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2025-08-06 01:04:50",
+  "ViewTime": "2025-07-22 20:39:35",
   "FilePath": [
-    "T:\\_TORRENT\\__+0!U()$DPMI-056${}[]=0ee6f2ee0361f25995f707528fea923f.mp4",
+    "T:\\4X-600\\JP+4!C(DPMI-056)$A race queen with a perfect visual style${}[race-queen]=0ee6f2ee0361f25995f707528fea923f.mp4",
+    "T:\\_TORRENT\\JP+4!C(DPMI-056)$A race queen with a perfect visual style${}[race-queen]=0ee6f2ee0361f25995f707528fea923f.mp4",
     "G:\\\\__+0!U()$DPMI-056${}[]=0ee6f2ee0361f25995f707528fea923f.mp4"
   ],
   "FileSize": 5650202647,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "1"
 }
