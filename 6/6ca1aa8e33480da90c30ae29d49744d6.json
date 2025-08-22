@@ -1,21 +1,19 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "JP",
+  "Rating": 3,
+  "Type": "C",
   "Code": "MAMA-191",
   "Title": "",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "hot-spring"
+  ],
   "Hash": "6ca1aa8e33480da90c30ae29d49744d6",
   "CreatedTime": "2016-07-25 22:35:40",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "2016-10-05 00:40:13",
-  "FilePath": [
-    "T:\\_TORRENT\\__+0!U(MAMA-191)$${}[]=6ca1aa8e33480da90c30ae29d49744d6.avi",
-    "G:\\0\\__+0!U(MAMA-191)$${}[]=6ca1aa8e33480da90c30ae29d49744d6.avi",
-    "G:\\G1\\__+0!U(MAMA-191)$${}[]=6ca1aa8e33480da90c30ae29d49744d6.avi"
-  ],
+  "ModifiedTime": "2025-08-13 00:46:12",
+  "ViewTime": "2025-08-13 00:44:30",
+  "FilePath": [],
   "FileSize": 1232347930,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

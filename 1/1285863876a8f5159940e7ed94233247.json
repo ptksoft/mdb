@@ -1,20 +1,23 @@
 {
-  "Country": "__",
-  "Rating": 0,
-  "Type": "U",
+  "Country": "TH",
+  "Rating": 4,
+  "Type": "X",
   "Code": "",
   "Title": "ทะเลรัก",
   "Actress": [],
-  "Tag": [],
+  "Tag": [
+    "mature"
+  ],
   "Hash": "1285863876a8f5159940e7ed94233247",
   "CreatedTime": "2018-02-21 22:24:55",
-  "ModifiedTime": "2022-01-14 14:57:24",
-  "ViewTime": "2018-02-21 22:25:05",
+  "ModifiedTime": "2025-08-22 16:02:00",
+  "ViewTime": "2025-08-13 02:07:56",
   "FilePath": [
-    "T:\\_TORRENT\\__+0!U()$ทะเลรัก${}[]=1285863876a8f5159940e7ed94233247.DAT",
+    "T:\\4X-700\\TH+4!X()$ทะเลรัก${}[mature]=1285863876a8f5159940e7ed94233247.DAT",
+    "T:\\_TORRENT\\TH+4!X()$ทะเลรัก${}[mature]=1285863876a8f5159940e7ed94233247.DAT",
     "G:\\0\\__+0!U()$ทะเลรัก${}[]=1285863876a8f5159940e7ed94233247.DAT"
   ],
   "FileSize": 767796332,
   "Story": "",
-  "CountPlay": "1"
+  "CountPlay": "2"
 }

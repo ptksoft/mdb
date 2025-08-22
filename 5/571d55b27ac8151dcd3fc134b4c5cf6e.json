@@ -1,21 +1,24 @@
 {
   "Country": "JP",
-  "Rating": 0,
+  "Rating": 4,
   "Type": "X",
-  "Code": "",
-  "Title": "LAF-19",
-  "Actress": [],
+  "Code": "LAF-19",
+  "Title": "",
+  "Actress": [
+    "HARUNA KAWASE"
+  ],
   "Tag": [],
   "Hash": "571d55b27ac8151dcd3fc134b4c5cf6e",
   "CreatedTime": "2014-01-28 09:18:49",
-  "ModifiedTime": "2022-01-14 14:57:25",
-  "ViewTime": "01-01-01 00:00:00",
+  "ModifiedTime": "2025-08-22 16:02:00",
+  "ViewTime": "2025-08-22 15:53:21",
   "FilePath": [
-    "T:\\_TORRENT\\JP+0!X()$LAF-19${}[]=571d55b27ac8151dcd3fc134b4c5cf6e.mp4",
+    "T:\\4X-700\\JP+4!X(LAF-19)$${HARUNA KAWASE}[]=571d55b27ac8151dcd3fc134b4c5cf6e.mp4",
+    "T:\\_TORRENT\\JP+4!X(LAF-19)$${HARUNA KAWASE}[]=571d55b27ac8151dcd3fc134b4c5cf6e.mp4",
     "G:\\0\\JP+0!X()$LAF-19${}[]=571d55b27ac8151dcd3fc134b4c5cf6e.mp4",
     "G:\\G1\\JP+0!X()$LAF-19${}[]=571d55b27ac8151dcd3fc134b4c5cf6e.mp4"
   ],
   "FileSize": 1190075586,
   "Story": "",
-  "CountPlay": "0"
+  "CountPlay": "2"
 }
